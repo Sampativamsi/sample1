@@ -1,6 +1,8 @@
 # sample1
+<!DOCTYPE html>
 <html>
-  <body>
-in develop branch
-  </body>
+<head>
+ <title>Happy Birthday</title>
+ <meta charset="utf-8" />
+</head>
 </html>
